@@ -1,0 +1,18 @@
+tigroo:
+  name: Tigroo's home
+  summary: Charming room in Montmartre
+  picture: card-paris.jpg
+  owner_picture: tigroo.jpg
+  city: Paris
+penny:
+  name: Penny's home
+  summary: Lovely house
+  picture: card-brussels.jpeg
+  owner_picture: penny.jpg
+  city: Brussels
+shepard:
+  name: Shepard's home
+  summary: Nice flat in Picadilly
+  picture: card-london.jpeg
+  owner_picture: shepard.jpg
+  city: London
